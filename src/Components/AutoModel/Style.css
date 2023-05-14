@@ -1,0 +1,12 @@
+p
+{
+    color: var(--dark-blue);
+    font-family: Cinzela;
+    font-size: 25pt;
+    text-align: center;
+   
+}
+.ant-collapse-item .ant-collapse-content {
+    background-color: var(--blue);
+  }
+  
